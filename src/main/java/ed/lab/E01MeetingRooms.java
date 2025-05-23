@@ -26,4 +26,4 @@ public class E01MeetingRooms {
     }
 }
 
-//push
+//cola de prioridad, es como de descarte
