@@ -18,3 +18,5 @@ public class E02Logger {
         return false;
     }
 }
+
+//Hashmap, como descarte,

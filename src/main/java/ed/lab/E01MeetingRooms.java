@@ -25,3 +25,5 @@ public class E01MeetingRooms {
         return minHeap.size();
     }
 }
+
+//push
